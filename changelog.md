@@ -1,3 +1,13 @@
+## v2.1.0
+- **Added** option to swap Music and SFX sliders
+- **Added** function to disable RobTop's 'feature' that snaps volume to 0 below 3% (thanks to ***Eclipse Menu Team***)
+- **Added** new mute button texture for SFX (shoutout to ***ION41091***)
+
+- **Fixed** how the colon `:` is handled so it's now properly part of the UI
+- **Fixed** mute button positions to be visually consistent
+- **Fixed** input precision now correctly shows 0 decimal places instead of 6 
+- **Fixed** a bunch of other small things
+
 ## v2.0.1
 - **Added** back input precision
 - **Added** better mute button sprites
